@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">DevCvlt</h1>
 
-<!--
-**devcvlt/devcvlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF99&center=true&vCenter=true&width=600&lines=Code+is+the+ritual.;Silence+is+the+protocol.;Chaos+is+the+playground."/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ⚠️ Experimental. Unstable. Unpredictable.
+
+Saya hanyalah entitas yang menulis kode di lorong waktu digital.  
+Di sini Anda tidak akan menemukan dokumentasi sempurna, tapi mungkin akan menemukan potongan eksperimen, proyek iseng, dan logika yang berjalan di antara kesunyian terminal.
+
+---
+
+## 🕳️ Eksperimen Obscure
+- 🧪 **SubScanner** — dissecting subtitles
+- 🕸️ **Metadata Automator** — crawling metadata
+- ⚙️ **Release Generator** — assembly automation
+- 👾 **Miscellaneous Projects** — artefak yang tidak diketahui asalnya
+
+---
+
+## 🛠️ Tech Arsenal
+- **Language:** Python, Node.js, Bash, Go
+- **Tools:** Docker, Git, VSCode, Postman
+- **DB:** PostgreSQL, MongoDB, SQLite
+
+---
+
+## 🕶️ Status
+
+> *"In the end, everything is just 0 and 1 — but the space between them is where I play."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devcvlt&style=for-the-badge&color=ff00aa&label=Visitors" alt="Visitors Counter" />
+</p>
