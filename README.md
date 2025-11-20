@@ -4,12 +4,12 @@
 
 **Languages and Tools:**
 
+![LInux MInt](https://img.shields.io/badge/-Linux%20Mint-black?style=flat-square&logo=linuxmint)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![LInux MInt](https://img.shields.io/badge/-Linux%20Mint-black?style=flat-square&logo=linuxmint)
+![Railway](https://img.shields.io/badge/-Railway-black?style=flat-square&logo=railway)
