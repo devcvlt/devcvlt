@@ -12,4 +12,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![LInux MInt](https://img.shields.io/badge/-linuxmint-black?style=flat-square&logo=linuxmint)
+![LInux MInt](https://img.shields.io/badge/-Linux%20Mint-black?style=flat-square&logo=linuxmint)
